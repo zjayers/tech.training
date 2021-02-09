@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Medium;
 
 public class ContainerWithMostWater {
 

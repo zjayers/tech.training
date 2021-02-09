@@ -1,4 +1,4 @@
-package Strings;
+package Strings.Easy;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
